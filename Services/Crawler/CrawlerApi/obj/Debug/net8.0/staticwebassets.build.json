@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7AyY3WhOpkH3Rjg6+okBISS9tEdjn/YIRzdCfsV/PQ4=",
+  "Source": "CrawlerApi",
+  "BasePath": "_content/CrawlerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

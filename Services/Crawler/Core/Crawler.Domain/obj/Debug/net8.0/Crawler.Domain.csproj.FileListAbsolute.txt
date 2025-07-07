@@ -1,0 +1,11 @@
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Crawler.Domain\bin\Debug\net8.0\Crawler.Domain.deps.json
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Crawler.Domain\bin\Debug\net8.0\Crawler.Domain.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Crawler.Domain\bin\Debug\net8.0\Crawler.Domain.pdb
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Crawler.Domain\obj\Debug\net8.0\Crawler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Crawler.Domain\obj\Debug\net8.0\Crawler.Domain.AssemblyInfoInputs.cache
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Crawler.Domain\obj\Debug\net8.0\Crawler.Domain.AssemblyInfo.cs
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Crawler.Domain\obj\Debug\net8.0\Crawler.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Crawler.Domain\obj\Debug\net8.0\Crawler.Domain.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Crawler.Domain\obj\Debug\net8.0\refint\Crawler.Domain.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Crawler.Domain\obj\Debug\net8.0\Crawler.Domain.pdb
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Crawler.Domain\obj\Debug\net8.0\ref\Crawler.Domain.dll

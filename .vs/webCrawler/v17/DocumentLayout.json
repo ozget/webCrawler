@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95B52F77-5AF9-42FC-8EDB-514CC1F67C77}|Services\\Crawler\\Core\\Crawler.Application\\Crawler.Application.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\core\\crawler.application\\services\\crawlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B52F77-5AF9-42FC-8EDB-514CC1F67C77}|Services\\Crawler\\Core\\Crawler.Application\\Crawler.Application.csproj|solutionrelative:services\\crawler\\core\\crawler.application\\services\\crawlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EA4B78-8E64-4274-81D3-E62F3655E1AE}|Services\\Crawler\\Core\\Crawler.Domain\\Crawler.Domain.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\core\\crawler.domain\\events\\inewsfetchedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EA4B78-8E64-4274-81D3-E62F3655E1AE}|Services\\Crawler\\Core\\Crawler.Domain\\Crawler.Domain.csproj|solutionrelative:services\\crawler\\core\\crawler.domain\\events\\inewsfetchedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC90E866-E96B-40EF-9BD6-E29813D949F8}|Services\\Crawler\\CrawlerApi\\CrawlerApi.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\crawlerapi\\controllers\\crawlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC90E866-E96B-40EF-9BD6-E29813D949F8}|Services\\Crawler\\CrawlerApi\\CrawlerApi.csproj|solutionrelative:services\\crawler\\crawlerapi\\controllers\\crawlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EA4B78-8E64-4274-81D3-E62F3655E1AE}|Services\\Crawler\\Core\\Crawler.Domain\\Crawler.Domain.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\core\\crawler.domain\\entities\\newentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EA4B78-8E64-4274-81D3-E62F3655E1AE}|Services\\Crawler\\Core\\Crawler.Domain\\Crawler.Domain.csproj|solutionrelative:services\\crawler\\core\\crawler.domain\\entities\\newentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EA4B78-8E64-4274-81D3-E62F3655E1AE}|Services\\Crawler\\Core\\Crawler.Domain\\Crawler.Domain.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\core\\crawler.domain\\entities\\newitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EA4B78-8E64-4274-81D3-E62F3655E1AE}|Services\\Crawler\\Core\\Crawler.Domain\\Crawler.Domain.csproj|solutionrelative:services\\crawler\\core\\crawler.domain\\entities\\newitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B52F77-5AF9-42FC-8EDB-514CC1F67C77}|Services\\Crawler\\Core\\Crawler.Application\\Crawler.Application.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\core\\crawler.application\\iservices\\icrawlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B52F77-5AF9-42FC-8EDB-514CC1F67C77}|Services\\Crawler\\Core\\Crawler.Application\\Crawler.Application.csproj|solutionrelative:services\\crawler\\core\\crawler.application\\iservices\\icrawlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC90E866-E96B-40EF-9BD6-E29813D949F8}|Services\\Crawler\\CrawlerApi\\CrawlerApi.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\crawlerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC90E866-E96B-40EF-9BD6-E29813D949F8}|Services\\Crawler\\CrawlerApi\\CrawlerApi.csproj|solutionrelative:services\\crawler\\crawlerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC90E866-E96B-40EF-9BD6-E29813D949F8}|Services\\Crawler\\CrawlerApi\\CrawlerApi.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\crawlerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC90E866-E96B-40EF-9BD6-E29813D949F8}|Services\\Crawler\\CrawlerApi\\CrawlerApi.csproj|solutionrelative:services\\crawler\\crawlerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EA4B78-8E64-4274-81D3-E62F3655E1AE}|Services\\Crawler\\Core\\Crawler.Domain\\Crawler.Domain.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\core\\crawler.domain\\entities\\crawlersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EA4B78-8E64-4274-81D3-E62F3655E1AE}|Services\\Crawler\\Core\\Crawler.Domain\\Crawler.Domain.csproj|solutionrelative:services\\crawler\\core\\crawler.domain\\entities\\crawlersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EA4B78-8E64-4274-81D3-E62F3655E1AE}|Services\\Crawler\\Core\\Crawler.Domain\\Crawler.Domain.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\core\\crawler.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EA4B78-8E64-4274-81D3-E62F3655E1AE}|Services\\Crawler\\Core\\Crawler.Domain\\Crawler.Domain.csproj|solutionrelative:services\\crawler\\core\\crawler.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INewsFetchedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Domain\\Events\\INewsFetchedEvent.cs",
+              "RelativeDocumentMoniker": "Services\\Crawler\\Core\\Crawler.Domain\\Events\\INewsFetchedEvent.cs",
+              "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Domain\\Events\\INewsFetchedEvent.cs",
+              "RelativeToolTip": "Services\\Crawler\\Core\\Crawler.Domain\\Events\\INewsFetchedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:07:40.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewItem.cs",
+              "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Domain\\Entities\\NewItem.cs",
+              "RelativeDocumentMoniker": "Services\\Crawler\\Core\\Crawler.Domain\\Entities\\NewItem.cs",
+              "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Domain\\Entities\\NewItem.cs",
+              "RelativeToolTip": "Services\\Crawler\\Core\\Crawler.Domain\\Entities\\NewItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:37:24.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrawlerController.cs",
+              "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\CrawlerApi\\Controllers\\CrawlerController.cs",
+              "RelativeDocumentMoniker": "Services\\Crawler\\CrawlerApi\\Controllers\\CrawlerController.cs",
+              "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\CrawlerApi\\Controllers\\CrawlerController.cs",
+              "RelativeToolTip": "Services\\Crawler\\CrawlerApi\\Controllers\\CrawlerController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:32:14.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Domain\\Entities\\NewEntity.cs",
+              "RelativeDocumentMoniker": "Services\\Crawler\\Core\\Crawler.Domain\\Entities\\NewEntity.cs",
+              "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Domain\\Entities\\NewEntity.cs",
+              "RelativeToolTip": "Services\\Crawler\\Core\\Crawler.Domain\\Entities\\NewEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:55:29.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICrawlerService.cs",
+              "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Application\\IServices\\ICrawlerService.cs",
+              "RelativeDocumentMoniker": "Services\\Crawler\\Core\\Crawler.Application\\IServices\\ICrawlerService.cs",
+              "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Application\\IServices\\ICrawlerService.cs",
+              "RelativeToolTip": "Services\\Crawler\\Core\\Crawler.Application\\IServices\\ICrawlerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:53:17.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrawlerService.cs",
+              "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Application\\Services\\CrawlerService.cs",
+              "RelativeDocumentMoniker": "Services\\Crawler\\Core\\Crawler.Application\\Services\\CrawlerService.cs",
+              "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Application\\Services\\CrawlerService.cs",
+              "RelativeToolTip": "Services\\Crawler\\Core\\Crawler.Application\\Services\\CrawlerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:52:50.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CrawlerSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Domain\\Entities\\CrawlerSettings.cs",
+              "RelativeDocumentMoniker": "Services\\Crawler\\Core\\Crawler.Domain\\Entities\\CrawlerSettings.cs",
+              "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Domain\\Entities\\CrawlerSettings.cs",
+              "RelativeToolTip": "Services\\Crawler\\Core\\Crawler.Domain\\Entities\\CrawlerSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:16:22.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\CrawlerApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Crawler\\CrawlerApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\CrawlerApi\\appsettings.json",
+              "RelativeToolTip": "Services\\Crawler\\CrawlerApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T10:14:35.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Services\\Crawler\\Core\\Crawler.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Services\\Crawler\\Core\\Crawler.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:09:54.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\CrawlerApi\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Crawler\\CrawlerApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\CrawlerApi\\Program.cs",
+              "RelativeToolTip": "Services\\Crawler\\CrawlerApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T09:52:02.858Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

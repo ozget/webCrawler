@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "CrawlerApi.Controllers.CrawlerController",
+    "Method": "GetNewCrawl",
+    "RelativePath": "api/Crawler",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
