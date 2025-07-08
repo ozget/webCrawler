@@ -1,0 +1,16 @@
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Application\bin\Debug\net8.0\Elastic.Application.deps.json
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Application\bin\Debug\net8.0\Elastic.Application.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Application\bin\Debug\net8.0\Elastic.Application.pdb
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Application\bin\Debug\net8.0\Elastic.Domain.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Application\bin\Debug\net8.0\Elastic.Domain.pdb
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Application\obj\Debug\net8.0\Elastic.Application.csproj.AssemblyReference.cache
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Application\obj\Debug\net8.0\Elastic.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Application\obj\Debug\net8.0\Elastic.Application.AssemblyInfoInputs.cache
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Application\obj\Debug\net8.0\Elastic.Application.AssemblyInfo.cs
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Application\obj\Debug\net8.0\Elastic.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Application\obj\Debug\net8.0\Elastic.Application.sourcelink.json
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Application\obj\Debug\net8.0\Elastic..BC8301D1.Up2Date
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Application\obj\Debug\net8.0\Elastic.Application.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Application\obj\Debug\net8.0\refint\Elastic.Application.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Application\obj\Debug\net8.0\Elastic.Application.pdb
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Application\obj\Debug\net8.0\ref\Elastic.Application.dll

@@ -23,7 +23,7 @@ namespace Crawler.Application.Services
             _publisher = publisher;
         }
 
-        public async Task<NewEntity> FetchNewAsync()
+        public async Task FetchNewAsync()
         {
 
             var timestamp = DateTime.UtcNow;
@@ -101,7 +101,7 @@ namespace Crawler.Application.Services
             }
 
 
-            return new NewEntity();
+           
         }
         async Task ScrollToBottomAsync(IPage page, int maxScrolls = 20, int delayMs = 1000)
         {

@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "ElasticApi.Controllers.ElasticController",
+    "Method": "Create",
+    "RelativePath": "api/Elastic",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "Elastic.Domain.Entities.NewEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElasticApi.Controllers.ElasticController",
+    "Method": "Get",
+    "RelativePath": "api/Elastic/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElasticApi.Controllers.ElasticController",
+    "Method": "GetByTitle",
+    "RelativePath": "api/Elastic/title/{title}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

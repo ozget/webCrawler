@@ -21,8 +21,8 @@ namespace CrawlerApi.Controllers
             [HttpPost]
             public async Task<IActionResult> GetNewCrawl()
             {
-                var result = await _crawlerService.FetchNewAsync();
-                return Ok(result);
+                await _crawlerService.FetchNewAsync();
+                return Ok();
             }
         }
     

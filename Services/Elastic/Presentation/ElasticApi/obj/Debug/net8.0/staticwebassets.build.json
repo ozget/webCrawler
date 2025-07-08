@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LMsb68SlJ6+KUtHtI4A4VbMmWxTS4pPbyh89KX8NUZ4=",
+  "Source": "ElasticApi",
+  "BasePath": "_content/ElasticApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

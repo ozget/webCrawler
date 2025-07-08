@@ -1,0 +1,12 @@
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Domain\obj\Debug\net8.0\Elastic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Domain\obj\Debug\net8.0\Elastic.Domain.AssemblyInfoInputs.cache
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Domain\obj\Debug\net8.0\Elastic.Domain.AssemblyInfo.cs
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Domain\obj\Debug\net8.0\Elastic.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Domain\obj\Debug\net8.0\Elastic.Domain.sourcelink.json
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Domain\bin\Debug\net8.0\Elastic.Domain.deps.json
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Domain\bin\Debug\net8.0\Elastic.Domain.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Domain\bin\Debug\net8.0\Elastic.Domain.pdb
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Domain\obj\Debug\net8.0\Elastic.Domain.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Domain\obj\Debug\net8.0\refint\Elastic.Domain.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Domain\obj\Debug\net8.0\Elastic.Domain.pdb
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Core\Elastic.Domain\obj\Debug\net8.0\ref\Elastic.Domain.dll
