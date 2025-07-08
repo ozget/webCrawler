@@ -357,3 +357,4 @@ C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Infrastru
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Infrastructure\Crawler.Infrastructure\bin\Debug\net8.0\.playwright\package\types\structs.d.ts
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Infrastructure\Crawler.Infrastructure\bin\Debug\net8.0\.playwright\package\types\types.d.ts
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Infrastructure\Crawler.Infrastructure\bin\Debug\net8.0\playwright.ps1
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Infrastructure\Crawler.Infrastructure\obj\Debug\net8.0\Crawler.Infrastructure.sourcelink.json

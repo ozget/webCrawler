@@ -387,3 +387,14 @@ C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\CrawlerAp
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\CrawlerApi\bin\Debug\net8.0\Microsoft.Playwright.dll
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\CrawlerApi\bin\Debug\net8.0\Crawler.Infrastructure.dll
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\CrawlerApi\bin\Debug\net8.0\Crawler.Infrastructure.pdb
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\CrawlerApi\obj\Debug\net8.0\CrawlerApi.sourcelink.json
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\CrawlerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\CrawlerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\CrawlerApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\CrawlerApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\CrawlerApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\CrawlerApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\CrawlerApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\CrawlerApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\CrawlerApi\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\CrawlerApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll

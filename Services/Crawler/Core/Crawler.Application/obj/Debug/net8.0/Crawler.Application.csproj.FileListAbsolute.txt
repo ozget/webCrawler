@@ -355,3 +355,4 @@ C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Craw
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Crawler.Application\bin\Debug\net8.0\.playwright\package\types\structs.d.ts
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Crawler.Application\bin\Debug\net8.0\.playwright\package\types\types.d.ts
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Crawler.Application\bin\Debug\net8.0\playwright.ps1
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Crawler.Application\obj\Debug\net8.0\Crawler.Application.sourcelink.json

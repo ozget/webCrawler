@@ -1,7 +1,10 @@
 
+using Crawler.Application.Events;
 using Crawler.Application.IServices;
 using Crawler.Application.Services;
 using Crawler.Domain.Entities;
+using Crawler.Infrastructure.Configurations;
+using Crawler.Infrastructure.Publishers;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,16 +18,12 @@ builder.Services.AddSwaggerGen();
 
 
 builder.Services.Configure<CrawlerSettings>(builder.Configuration.GetSection("CrawlerSettings"));
-
-
-//AngleSharp siteden verileri okuyabilmek icin
-//builder.Services.AddSingleton<IBrowsingContext>(_ =>
-//    BrowsingContext.New(Configuration.Default.WithDefaultLoader()));
-
 builder.Services.AddScoped<ICrawlerService, CrawlerService>();
 
 
-
+// AppSettings RabbitMQ ayarlarýný konfigüre et
+builder.Services.Configure<RabbitMqSettings>(builder.Configuration.GetSection("RabbitMq"));
+builder.Services.AddSingleton<INewsPublisher<NewFetchedEventDto>, RabbitMQPublisher<NewFetchedEventDto>>();
 
 var app = builder.Build();
 

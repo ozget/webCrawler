@@ -9,3 +9,4 @@ C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Craw
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Crawler.Domain\obj\Debug\net8.0\refint\Crawler.Domain.dll
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Crawler.Domain\obj\Debug\net8.0\Crawler.Domain.pdb
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Crawler.Domain\obj\Debug\net8.0\ref\Crawler.Domain.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Crawler\Core\Crawler.Domain\obj\Debug\net8.0\Crawler.Domain.sourcelink.json
