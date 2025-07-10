@@ -14,16 +14,19 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 
+// RabbitMQ Configuration
+builder.Services.AddElasticSearch("http://localhost:9200");
+builder.Services.Configure<RabbitMqSettings>(builder.Configuration.GetSection("RabbitMQ"));
+builder.Services.AddHostedService<RabbitMqConsumerService>();
+
+builder.Services.AddHealthChecks()
+    .AddElasticsearch( "https://elastic:elastic123@localhost:9200",name: "elasticsearch");
+
+
+
 builder.Services.AddScoped<IElasticRepository, ElasticRepository>();
 builder.Services.AddScoped<IElasticService, ElasticService>();
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
-
-
-// RabbitMQ Configuration
-builder.Services.Configure<RabbitMqSettings>(builder.Configuration.GetSection("RabbitMQ"));
-builder.Services.AddHostedService<RabbitMqConsumerService>();
-builder.Services.AddElasticSearch("http://localhost:9200");
-builder.Services.AddHealthChecks();
 
 
 
@@ -37,9 +40,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-//app.UseEndpoints(endpoints =>{
-//    endpoints.MapHealthChecks("/health");
-//});
+app.MapHealthChecks("/health");
 
 
 

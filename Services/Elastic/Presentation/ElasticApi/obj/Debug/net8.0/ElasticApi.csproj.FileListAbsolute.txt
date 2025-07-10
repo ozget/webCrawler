@@ -28,7 +28,6 @@ C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentat
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ElasticApi.props
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ElasticApi.props
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\obj\Debug\net8.0\ElasticApi.csproj.Up2Date
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\obj\Debug\net8.0\ElasticApi.dll
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\obj\Debug\net8.0\refint\ElasticApi.dll
@@ -59,3 +58,9 @@ C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentat
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\bin\Debug\net8.0\Elastic.Transport.dll
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\bin\Debug\net8.0\GreenPipes.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\bin\Debug\net8.0\MassTransit.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\bin\Debug\net8.0\MassTransit.ExtensionsLoggingIntegration.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\bin\Debug\net8.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\bin\Debug\net8.0\NewId.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

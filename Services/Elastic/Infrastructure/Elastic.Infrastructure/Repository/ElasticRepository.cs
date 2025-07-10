@@ -37,7 +37,10 @@ namespace Elastic.Infrastructure.Repository
 
         public async Task<IEnumerable<NewEntity>> GetAllAsync()
         {
-            var searchResponse = await _elasticClient.SearchAsync<NewEntity>(s => s.Index(_indexName).MatchAll().Size(1000));
+            var searchResponse = await _elasticClient.SearchAsync<NewEntity>(s => 
+                                                                s.Index(_indexName)
+                                                                .MatchAll()
+                                                                .Size(1000));
             return searchResponse.Documents;
         }
 
@@ -50,5 +53,6 @@ namespace Elastic.Infrastructure.Repository
 
             return response.Documents.FirstOrDefault();
         }
+      
     }
 }

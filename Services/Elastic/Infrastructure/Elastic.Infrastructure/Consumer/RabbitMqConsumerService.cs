@@ -29,20 +29,24 @@ namespace Elastic.Infrastructure.Consumer
             _rabbitMqSetting = rabbitMqSetting.Value;
             _serviceProvider = serviceProvider;
             _logger= logger;
-
-
-            var factory = new ConnectionFactory
+        }
+        private void ConnectRabbitMQ()
+        {
+            var factory = new ConnectionFactory()
             {
                 HostName = _rabbitMqSetting.HostName,
                 UserName = _rabbitMqSetting.UserName,
                 Password = _rabbitMqSetting.Password
             };
+
             _connection = factory.CreateConnection();
             _channel = _connection.CreateModel();
+           
         }
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
+            ConnectRabbitMQ();
             StartConsuming(MessageQueueNames.NewsQueue, stoppingToken);
             await Task.CompletedTask;
         }

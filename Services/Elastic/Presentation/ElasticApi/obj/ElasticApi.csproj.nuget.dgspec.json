@@ -53,6 +53,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MassTransit.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.5.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

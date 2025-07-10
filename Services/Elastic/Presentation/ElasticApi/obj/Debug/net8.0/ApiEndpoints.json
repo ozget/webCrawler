@@ -33,6 +33,16 @@
   },
   {
     "ContainingType": "ElasticApi.Controllers.ElasticController",
+    "Method": "GetAll",
+    "RelativePath": "api/Elastic/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElasticApi.Controllers.ElasticController",
     "Method": "GetByTitle",
     "RelativePath": "api/Elastic/title/{title}",
     "HttpMethod": "GET",

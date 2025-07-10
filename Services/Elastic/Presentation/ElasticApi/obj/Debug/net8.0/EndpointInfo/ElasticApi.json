@@ -79,6 +79,18 @@
           }
         }
       }
+    },
+    "/api/Elastic/all": {
+      "get": {
+        "tags": [
+          "Elastic"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {

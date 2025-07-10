@@ -12,5 +12,6 @@ namespace Elastic.Application.Services
         Task SaveAsync(NewEntity entity);
         Task<NewEntity?> GetByIdAsync(string id);
         Task<NewEntity?> GetByTitleAsync(string title);
+        Task<IEnumerable<NewEntity>> GetAllAsync();
     }
 }

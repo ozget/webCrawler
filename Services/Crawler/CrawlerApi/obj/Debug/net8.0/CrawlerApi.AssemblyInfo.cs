@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrawlerApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3947b0125ad5acf4dc6b050bd8a67a7eedefca2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84d4bd9092ad91af6bdc2bcba1d26ab44c1815e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrawlerApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrawlerApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

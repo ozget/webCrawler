@@ -13,6 +13,7 @@ using RabbitMQ.Client;
 
 namespace Crawler.Infrastructure.Publishers
 {
+
     public class RabbitMQPublisher<T> : INewsPublisher<T>
     {
         private readonly RabbitMqSettings _rabbitMqSetting;
@@ -40,10 +41,14 @@ namespace Crawler.Infrastructure.Publishers
             var messageJson = JsonConvert.SerializeObject(message);
             var body = Encoding.UTF8.GetBytes(messageJson);
 
-            await Task.Run(() => 
-                channel.BasicPublish(exchange: "", routingKey: queueName, basicProperties: null, body: body)
+
+            var properties = channel.CreateBasicProperties();
+            properties.Persistent = true;// bu şekilde rabbitmq retartında bile mesaj silinmez
+            
+            await Task.Run(() =>
+                channel.BasicPublish(exchange: "", routingKey: queueName, basicProperties: properties, body: body)
                 );
         }
-     
+
     }
 }
