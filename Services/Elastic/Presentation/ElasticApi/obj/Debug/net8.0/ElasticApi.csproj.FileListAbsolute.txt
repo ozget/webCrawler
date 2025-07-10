@@ -64,3 +64,4 @@ C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentat
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\bin\Debug\net8.0\Microsoft.Extensions.PlatformAbstractions.dll
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\bin\Debug\net8.0\NewId.dll
 C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Ozge\OneDrive\Desktop\web-crawler\webCrawler\Services\Elastic\Presentation\ElasticApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

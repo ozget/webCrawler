@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Elastic.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84d4bd9092ad91af6bdc2bcba1d26ab44c1815e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b838f1bcaca450ff7f0939c2423d7bd98ccd45b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Elastic.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Elastic.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

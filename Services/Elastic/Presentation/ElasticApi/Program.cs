@@ -28,7 +28,16 @@ builder.Services.AddScoped<IElasticRepository, ElasticRepository>();
 builder.Services.AddScoped<IElasticService, ElasticService>();
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 
-
+// CORS policy tanýmý
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowLocalhost5173",
+        policy => policy
+            .WithOrigins("http://localhost:5173")
+            .AllowAnyHeader()
+            .WithMethods("GET")
+    );
+});
 
 
 var app = builder.Build();
@@ -41,7 +50,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.MapHealthChecks("/health");
-
+app.UseCors("AllowOnlyGetFromReactApp");
 
 
 app.UseHttpsRedirection();

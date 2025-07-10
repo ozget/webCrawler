@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Services\\Crawler\\CrawlerApi\\CrawlerApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Services\\Elastic\\Presentation\\ElasticApi\\ElasticApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
