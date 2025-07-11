@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using Elastic.Domain.Repositories;
@@ -33,5 +34,12 @@ namespace Elastic.Infrastructure.Repository
             var searchResponse = await _elasticClient.SearchAsync<T>(s => s.Index(_indexName).MatchAll().Size(1000));
             return searchResponse.Documents;
         }
+    
+
+       
+
+      
+
+       
     }
 }

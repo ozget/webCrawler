@@ -42,11 +42,11 @@ namespace Crawler.Infrastructure.Publishers
             var body = Encoding.UTF8.GetBytes(messageJson);
 
 
-            var properties = channel.CreateBasicProperties();
-            properties.Persistent = true;// bu şekilde rabbitmq retartında bile mesaj silinmez
+            //var properties = channel.CreateBasicProperties();
+            //properties.Persistent = true;// bu şekilde rabbitmq retartında bile mesaj silinmez
             
             await Task.Run(() =>
-                channel.BasicPublish(exchange: "", routingKey: queueName, basicProperties: properties, body: body)
+                channel.BasicPublish(exchange: "", routingKey: queueName, basicProperties: null, body: body)
                 );
         }
 

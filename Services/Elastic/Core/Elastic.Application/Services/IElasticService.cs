@@ -7,11 +7,12 @@ using Elastic.Domain.Entities;
 
 namespace Elastic.Application.Services
 {
-    public interface IElasticService
+    public interface IElasticService:IService<NewEntity>
     {
-        Task SaveAsync(NewEntity entity);
         Task<NewEntity?> GetByIdAsync(string id);
         Task<NewEntity?> GetByTitleAsync(string title);
         Task<IEnumerable<NewEntity>> GetAllAsync();
+
+        Task DeleteAllNewsAsync();
     }
 }

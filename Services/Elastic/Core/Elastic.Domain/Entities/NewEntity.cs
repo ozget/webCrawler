@@ -4,6 +4,7 @@ namespace Elastic.Domain.Entities
 {
     public class NewEntity : BaseEntity
     {
+       
         public string Title { get; set; } = default!;
         public string Link { get; set; } = default!;
 

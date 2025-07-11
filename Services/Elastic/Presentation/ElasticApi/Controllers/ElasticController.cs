@@ -18,7 +18,7 @@ namespace ElasticApi.Controllers
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] NewEntity entity)
         {
-            entity.CreatedDate = DateTime.UtcNow;
+           
             await _service.SaveAsync(entity);
             return Ok("Saved");
         }
@@ -42,6 +42,13 @@ namespace ElasticApi.Controllers
         {
             var result = await _service.GetAllAsync();
             return Ok(result);
+        }
+
+        [HttpDelete]
+        public async Task<IActionResult> Delete()
+        {
+             await _service.DeleteAllNewsAsync();
+            return Ok();
         }
     }
 }

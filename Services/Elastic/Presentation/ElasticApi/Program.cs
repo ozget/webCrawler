@@ -27,11 +27,12 @@ builder.Services.AddHealthChecks()
 builder.Services.AddScoped<IElasticRepository, ElasticRepository>();
 builder.Services.AddScoped<IElasticService, ElasticService>();
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+builder.Services.AddScoped(typeof(IService<>), typeof(Service<>));
 
 // CORS policy tanýmý
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowLocalhost5173",
+    options.AddPolicy("AllowOnlyGetFromReactApp",
         policy => policy
             .WithOrigins("http://localhost:5173")
             .AllowAnyHeader()

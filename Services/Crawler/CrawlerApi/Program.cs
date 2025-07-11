@@ -5,6 +5,7 @@ using Crawler.Application.Services;
 using Crawler.Domain.Entities;
 using Crawler.Infrastructure.Configurations;
 using Crawler.Infrastructure.Publishers;
+using Crawler.Infrastructure.Worker;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -24,6 +25,13 @@ builder.Services.AddScoped<ICrawlerService, CrawlerService>();
 // AppSettings RabbitMQ ayarlarýný konfigüre et
 builder.Services.Configure<RabbitMqSettings>(builder.Configuration.GetSection("RabbitMq"));
 builder.Services.AddSingleton<INewsPublisher<NewFetchedEventDto>, RabbitMQPublisher<NewFetchedEventDto>>();
+
+
+builder.Services.AddHostedService<NewsFetchWorker>();
+
+builder.Services.AddScoped<ICrawlerScopedProcessor, CrawlerScopedProcessor>();
+
+
 
 var app = builder.Build();
 

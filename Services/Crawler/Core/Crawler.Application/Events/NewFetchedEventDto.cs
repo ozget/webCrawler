@@ -8,6 +8,7 @@ namespace Crawler.Application.Events
 {
     public class NewFetchedEventDto
     {
+        public string Id { get; set; }
         public string Title { get; set; }
         public string Link { get; set; }
         public string? ImageUrl { get; set; }

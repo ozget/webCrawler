@@ -17,6 +17,16 @@
   },
   {
     "ContainingType": "ElasticApi.Controllers.ElasticController",
+    "Method": "Delete",
+    "RelativePath": "api/Elastic",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElasticApi.Controllers.ElasticController",
     "Method": "Get",
     "RelativePath": "api/Elastic/{id}",
     "HttpMethod": "GET",
