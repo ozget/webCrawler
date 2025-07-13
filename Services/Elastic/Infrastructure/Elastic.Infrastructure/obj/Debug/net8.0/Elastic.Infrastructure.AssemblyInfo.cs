@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Elastic.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1ca8f8ebd1ef877d63b0b0dfdbb621b409a9ee7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1f5df22119cc39e630a70bf19b54de943c0eb8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Elastic.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Elastic.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
