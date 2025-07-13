@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Crawler.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24ec90eb477fe8c45964d9c113b28722f827c08c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1ca8f8ebd1ef877d63b0b0dfdbb621b409a9ee7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Crawler.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Crawler.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,40 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95B52F77-5AF9-42FC-8EDB-514CC1F67C77}|Services\\Crawler\\Core\\Crawler.Application\\Crawler.Application.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\core\\crawler.application\\services\\crawlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95B52F77-5AF9-42FC-8EDB-514CC1F67C77}|Services\\Crawler\\Core\\Crawler.Application\\Crawler.Application.csproj|solutionrelative:services\\crawler\\core\\crawler.application\\services\\crawlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81E541EF-E188-4A59-BC26-5E1BB713D9F4}|Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Crawler.Infrastructure.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\infrastructure\\crawler.infrastructure\\publishers\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81E541EF-E188-4A59-BC26-5E1BB713D9F4}|Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Crawler.Infrastructure.csproj|solutionrelative:services\\crawler\\infrastructure\\crawler.infrastructure\\publishers\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81E541EF-E188-4A59-BC26-5E1BB713D9F4}|Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Crawler.Infrastructure.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\infrastructure\\crawler.infrastructure\\worker\\crawlerscopedprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81E541EF-E188-4A59-BC26-5E1BB713D9F4}|Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Crawler.Infrastructure.csproj|solutionrelative:services\\crawler\\infrastructure\\crawler.infrastructure\\worker\\crawlerscopedprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81E541EF-E188-4A59-BC26-5E1BB713D9F4}|Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Crawler.Infrastructure.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\infrastructure\\crawler.infrastructure\\worker\\newsfetchworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81E541EF-E188-4A59-BC26-5E1BB713D9F4}|Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Crawler.Infrastructure.csproj|solutionrelative:services\\crawler\\infrastructure\\crawler.infrastructure\\worker\\newsfetchworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE6E8929-A009-4F30-9B4C-071FCCAFDC95}|Services\\Elastic\\Infrastructure\\Elastic.Infrastructure\\Elastic.Infrastructure.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\elastic\\infrastructure\\elastic.infrastructure\\repository\\elasticrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE6E8929-A009-4F30-9B4C-071FCCAFDC95}|Services\\Elastic\\Infrastructure\\Elastic.Infrastructure\\Elastic.Infrastructure.csproj|solutionrelative:services\\elastic\\infrastructure\\elastic.infrastructure\\repository\\elasticrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DC37924-FB39-4B12-8EEF-2DA99A37D28B}|Services\\Elastic\\Core\\Elastic.Application\\Elastic.Application.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\elastic\\core\\elastic.application\\services\\elasticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DC37924-FB39-4B12-8EEF-2DA99A37D28B}|Services\\Elastic\\Core\\Elastic.Application\\Elastic.Application.csproj|solutionrelative:services\\elastic\\core\\elastic.application\\services\\elasticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D68EB04E-628C-4C37-AD8F-7C6291B2E2E7}|Services\\Elastic\\Presentation\\ElasticApi\\ElasticApi.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\elastic\\presentation\\elasticapi\\controllers\\elasticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68EB04E-628C-4C37-AD8F-7C6291B2E2E7}|Services\\Elastic\\Presentation\\ElasticApi\\ElasticApi.csproj|solutionrelative:services\\elastic\\presentation\\elasticapi\\controllers\\elasticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B52F77-5AF9-42FC-8EDB-514CC1F67C77}|Services\\Crawler\\Core\\Crawler.Application\\Crawler.Application.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\core\\crawler.application\\services\\crawlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B52F77-5AF9-42FC-8EDB-514CC1F67C77}|Services\\Crawler\\Core\\Crawler.Application\\Crawler.Application.csproj|solutionrelative:services\\crawler\\core\\crawler.application\\services\\crawlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC90E866-E96B-40EF-9BD6-E29813D949F8}|Services\\Crawler\\CrawlerApi\\CrawlerApi.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\crawlerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC90E866-E96B-40EF-9BD6-E29813D949F8}|Services\\Crawler\\CrawlerApi\\CrawlerApi.csproj|solutionrelative:services\\crawler\\crawlerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B52F77-5AF9-42FC-8EDB-514CC1F67C77}|Services\\Crawler\\Core\\Crawler.Application\\Crawler.Application.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\core\\crawler.application\\crawler.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95B52F77-5AF9-42FC-8EDB-514CC1F67C77}|Services\\Crawler\\Core\\Crawler.Application\\Crawler.Application.csproj|solutionrelative:services\\crawler\\core\\crawler.application\\crawler.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E8929-A009-4F30-9B4C-071FCCAFDC95}|Services\\Elastic\\Infrastructure\\Elastic.Infrastructure\\Elastic.Infrastructure.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\elastic\\infrastructure\\elastic.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E8929-A009-4F30-9B4C-071FCCAFDC95}|Services\\Elastic\\Infrastructure\\Elastic.Infrastructure\\Elastic.Infrastructure.csproj|solutionrelative:services\\elastic\\infrastructure\\elastic.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698C00F3-51A3-412E-9E3C-47D4D46BEF46}|Services\\Elastic\\Core\\Elastic.Domain\\Elastic.Domain.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\elastic\\core\\elastic.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698C00F3-51A3-412E-9E3C-47D4D46BEF46}|Services\\Elastic\\Core\\Elastic.Domain\\Elastic.Domain.csproj|solutionrelative:services\\elastic\\core\\elastic.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{698C00F3-51A3-412E-9E3C-47D4D46BEF46}|Services\\Elastic\\Core\\Elastic.Domain\\Elastic.Domain.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\elastic\\core\\elastic.domain\\repositories\\ielasticrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{698C00F3-51A3-412E-9E3C-47D4D46BEF46}|Services\\Elastic\\Core\\Elastic.Domain\\Elastic.Domain.csproj|solutionrelative:services\\elastic\\core\\elastic.domain\\repositories\\ielasticrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D68EB04E-628C-4C37-AD8F-7C6291B2E2E7}|Services\\Elastic\\Presentation\\ElasticApi\\ElasticApi.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\elastic\\presentation\\elasticapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D68EB04E-628C-4C37-AD8F-7C6291B2E2E7}|Services\\Elastic\\Presentation\\ElasticApi\\ElasticApi.csproj|solutionrelative:services\\elastic\\presentation\\elasticapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DC37924-FB39-4B12-8EEF-2DA99A37D28B}|Services\\Elastic\\Core\\Elastic.Application\\Elastic.Application.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\elastic\\core\\elastic.application\\services\\elasticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC37924-FB39-4B12-8EEF-2DA99A37D28B}|Services\\Elastic\\Core\\Elastic.Application\\Elastic.Application.csproj|solutionrelative:services\\elastic\\core\\elastic.application\\services\\elasticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D68EB04E-628C-4C37-AD8F-7C6291B2E2E7}|Services\\Elastic\\Presentation\\ElasticApi\\ElasticApi.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\elastic\\presentation\\elasticapi\\controllers\\elasticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D68EB04E-628C-4C37-AD8F-7C6291B2E2E7}|Services\\Elastic\\Presentation\\ElasticApi\\ElasticApi.csproj|solutionrelative:services\\elastic\\presentation\\elasticapi\\controllers\\elasticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DC37924-FB39-4B12-8EEF-2DA99A37D28B}|Services\\Elastic\\Core\\Elastic.Application\\Elastic.Application.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\elastic\\core\\elastic.application\\services\\ielasticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC37924-FB39-4B12-8EEF-2DA99A37D28B}|Services\\Elastic\\Core\\Elastic.Application\\Elastic.Application.csproj|solutionrelative:services\\elastic\\core\\elastic.application\\services\\ielasticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E541EF-E188-4A59-BC26-5E1BB713D9F4}|Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Crawler.Infrastructure.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\infrastructure\\crawler.infrastructure\\worker\\crawlerscopedprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E541EF-E188-4A59-BC26-5E1BB713D9F4}|Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Crawler.Infrastructure.csproj|solutionrelative:services\\crawler\\infrastructure\\crawler.infrastructure\\worker\\crawlerscopedprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E541EF-E188-4A59-BC26-5E1BB713D9F4}|Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Crawler.Infrastructure.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\infrastructure\\crawler.infrastructure\\publishers\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E541EF-E188-4A59-BC26-5E1BB713D9F4}|Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Crawler.Infrastructure.csproj|solutionrelative:services\\crawler\\infrastructure\\crawler.infrastructure\\publishers\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E541EF-E188-4A59-BC26-5E1BB713D9F4}|Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Crawler.Infrastructure.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\infrastructure\\crawler.infrastructure\\worker\\newsfetchworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E541EF-E188-4A59-BC26-5E1BB713D9F4}|Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Crawler.Infrastructure.csproj|solutionrelative:services\\crawler\\infrastructure\\crawler.infrastructure\\worker\\newsfetchworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68EB04E-628C-4C37-AD8F-7C6291B2E2E7}|Services\\Elastic\\Presentation\\ElasticApi\\ElasticApi.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\elastic\\presentation\\elasticapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68EB04E-628C-4C37-AD8F-7C6291B2E2E7}|Services\\Elastic\\Presentation\\ElasticApi\\ElasticApi.csproj|solutionrelative:services\\elastic\\presentation\\elasticapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE6E8929-A009-4F30-9B4C-071FCCAFDC95}|Services\\Elastic\\Infrastructure\\Elastic.Infrastructure\\Elastic.Infrastructure.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\elastic\\infrastructure\\elastic.infrastructure\\consumer\\rabbitmqconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,20 +79,8 @@
       "RelativeMoniker": "D:0:0:{698C00F3-51A3-412E-9E3C-47D4D46BEF46}|Services\\Elastic\\Core\\Elastic.Domain\\Elastic.Domain.csproj|solutionrelative:services\\elastic\\core\\elastic.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DC37924-FB39-4B12-8EEF-2DA99A37D28B}|Services\\Elastic\\Core\\Elastic.Application\\Elastic.Application.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\elastic\\core\\elastic.application\\services\\ielasticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DC37924-FB39-4B12-8EEF-2DA99A37D28B}|Services\\Elastic\\Core\\Elastic.Application\\Elastic.Application.csproj|solutionrelative:services\\elastic\\core\\elastic.application\\services\\ielasticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0DC37924-FB39-4B12-8EEF-2DA99A37D28B}|Services\\Elastic\\Core\\Elastic.Application\\Elastic.Application.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\elastic\\core\\elastic.application\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DC37924-FB39-4B12-8EEF-2DA99A37D28B}|Services\\Elastic\\Core\\Elastic.Application\\Elastic.Application.csproj|solutionrelative:services\\elastic\\core\\elastic.application\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{698C00F3-51A3-412E-9E3C-47D4D46BEF46}|Services\\Elastic\\Core\\Elastic.Domain\\Elastic.Domain.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\elastic\\core\\elastic.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{698C00F3-51A3-412E-9E3C-47D4D46BEF46}|Services\\Elastic\\Core\\Elastic.Domain\\Elastic.Domain.csproj|solutionrelative:services\\elastic\\core\\elastic.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE6E8929-A009-4F30-9B4C-071FCCAFDC95}|Services\\Elastic\\Infrastructure\\Elastic.Infrastructure\\Elastic.Infrastructure.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\elastic\\infrastructure\\elastic.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6E8929-A009-4F30-9B4C-071FCCAFDC95}|Services\\Elastic\\Infrastructure\\Elastic.Infrastructure\\Elastic.Infrastructure.csproj|solutionrelative:services\\elastic\\infrastructure\\elastic.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D68EB04E-628C-4C37-AD8F-7C6291B2E2E7}|Services\\Elastic\\Presentation\\ElasticApi\\ElasticApi.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\elastic\\presentation\\elasticapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -91,20 +99,12 @@
       "RelativeMoniker": "D:0:0:{BC90E866-E96B-40EF-9BD6-E29813D949F8}|Services\\Crawler\\CrawlerApi\\CrawlerApi.csproj|solutionrelative:services\\crawler\\crawlerapi\\controllers\\crawlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95B52F77-5AF9-42FC-8EDB-514CC1F67C77}|Services\\Crawler\\Core\\Crawler.Application\\Crawler.Application.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\core\\crawler.application\\crawler.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{95B52F77-5AF9-42FC-8EDB-514CC1F67C77}|Services\\Crawler\\Core\\Crawler.Application\\Crawler.Application.csproj|solutionrelative:services\\crawler\\core\\crawler.application\\crawler.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0DC37924-FB39-4B12-8EEF-2DA99A37D28B}|Services\\Elastic\\Core\\Elastic.Application\\Elastic.Application.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\elastic\\core\\elastic.application\\elastic.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0DC37924-FB39-4B12-8EEF-2DA99A37D28B}|Services\\Elastic\\Core\\Elastic.Application\\Elastic.Application.csproj|solutionrelative:services\\elastic\\core\\elastic.application\\elastic.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81E541EF-E188-4A59-BC26-5E1BB713D9F4}|Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Crawler.Infrastructure.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\infrastructure\\crawler.infrastructure\\crawler.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{81E541EF-E188-4A59-BC26-5E1BB713D9F4}|Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Crawler.Infrastructure.csproj|solutionrelative:services\\crawler\\infrastructure\\crawler.infrastructure\\crawler.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC90E866-E96B-40EF-9BD6-E29813D949F8}|Services\\Crawler\\CrawlerApi\\CrawlerApi.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\crawlerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC90E866-E96B-40EF-9BD6-E29813D949F8}|Services\\Crawler\\CrawlerApi\\CrawlerApi.csproj|solutionrelative:services\\crawler\\crawlerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95B52F77-5AF9-42FC-8EDB-514CC1F67C77}|Services\\Crawler\\Core\\Crawler.Application\\Crawler.Application.csproj|c:\\users\\ozge\\onedrive\\desktop\\web-crawler\\webcrawler\\services\\crawler\\core\\crawler.application\\iservices\\icrawlerscopedprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -118,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Core\\Elastic.Application\\Services\\Service.cs",
               "RelativeDocumentMoniker": "Services\\Elastic\\Core\\Elastic.Application\\Services\\Service.cs",
@@ -139,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "IService.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Core\\Elastic.Application\\Services\\IService.cs",
               "RelativeDocumentMoniker": "Services\\Elastic\\Core\\Elastic.Application\\Services\\IService.cs",
@@ -152,20 +152,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 6,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Core\\Elastic.Domain\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "Services\\Elastic\\Core\\Elastic.Domain\\Repositories\\IRepository.cs",
               "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Core\\Elastic.Domain\\Repositories\\IRepository.cs",
               "RelativeToolTip": "Services\\Elastic\\Core\\Elastic.Domain\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T10:08:39.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Presentation\\ElasticApi\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\Elastic\\Presentation\\ElasticApi\\appsettings.json",
@@ -173,11 +173,12 @@
               "RelativeToolTip": "Services\\Elastic\\Presentation\\ElasticApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-11T05:59:29.259Z"
+              "WhenOpened": "2025-07-11T05:59:29.259Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -185,11 +186,12 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-07-11T05:54:38.592Z"
+              "WhenOpened": "2025-07-11T05:54:38.592Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Core\\Elastic.Domain\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Services\\Elastic\\Core\\Elastic.Domain\\Entities\\BaseEntity.cs",
@@ -202,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "NewEntity.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Core\\Elastic.Domain\\Entities\\NewEntity.cs",
               "RelativeDocumentMoniker": "Services\\Elastic\\Core\\Elastic.Domain\\Entities\\NewEntity.cs",
@@ -215,20 +217,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
               "Title": "IElasticService.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Core\\Elastic.Application\\Services\\IElasticService.cs",
               "RelativeDocumentMoniker": "Services\\Elastic\\Core\\Elastic.Application\\Services\\IElasticService.cs",
               "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Core\\Elastic.Application\\Services\\IElasticService.cs",
               "RelativeToolTip": "Services\\Elastic\\Core\\Elastic.Application\\Services\\IElasticService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T19:58:35.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "NewFetchedEventDto.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Application\\Events\\NewFetchedEventDto.cs",
               "RelativeDocumentMoniker": "Services\\Crawler\\Core\\Crawler.Application\\Events\\NewFetchedEventDto.cs",
@@ -241,33 +243,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 5,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Infrastructure\\Elastic.Infrastructure\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "Services\\Elastic\\Infrastructure\\Elastic.Infrastructure\\Repository\\Repository.cs",
               "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Infrastructure\\Elastic.Infrastructure\\Repository\\Repository.cs",
               "RelativeToolTip": "Services\\Elastic\\Infrastructure\\Elastic.Infrastructure\\Repository\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T19:37:48.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "ElasticController.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Presentation\\ElasticApi\\Controllers\\ElasticController.cs",
               "RelativeDocumentMoniker": "Services\\Elastic\\Presentation\\ElasticApi\\Controllers\\ElasticController.cs",
               "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Presentation\\ElasticApi\\Controllers\\ElasticController.cs",
               "RelativeToolTip": "Services\\Elastic\\Presentation\\ElasticApi\\Controllers\\ElasticController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowAoAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T16:39:34.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "RabbitMqPublisher.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Publishers\\RabbitMqPublisher.cs",
               "RelativeDocumentMoniker": "Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Publishers\\RabbitMqPublisher.cs",
@@ -280,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Elastic.Application.csproj",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Core\\Elastic.Application\\Elastic.Application.csproj",
               "RelativeDocumentMoniker": "Services\\Elastic\\Core\\Elastic.Application\\Elastic.Application.csproj",
@@ -288,11 +290,12 @@
               "RelativeToolTip": "Services\\Elastic\\Core\\Elastic.Application\\Elastic.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-10T19:10:04.989Z"
+              "WhenOpened": "2025-07-10T19:10:04.989Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Crawler.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Crawler.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Crawler.Infrastructure.csproj",
@@ -300,29 +303,31 @@
               "RelativeToolTip": "Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Crawler.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-10T19:09:48.821Z"
+              "WhenOpened": "2025-07-10T19:09:48.821Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 4,
               "Title": "Crawler.Application.csproj",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Application\\Crawler.Application.csproj",
               "RelativeDocumentMoniker": "Services\\Crawler\\Core\\Crawler.Application\\Crawler.Application.csproj",
               "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Application\\Crawler.Application.csproj",
               "RelativeToolTip": "Services\\Crawler\\Core\\Crawler.Application\\Crawler.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-10T19:09:38.583Z"
+              "WhenOpened": "2025-07-10T19:09:38.583Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "CrawlerScopedProcessor.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Worker\\CrawlerScopedProcessor.cs",
               "RelativeDocumentMoniker": "Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Worker\\CrawlerScopedProcessor.cs",
               "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Worker\\CrawlerScopedProcessor.cs",
               "RelativeToolTip": "Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Worker\\CrawlerScopedProcessor.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T19:00:10.516Z",
               "EditorCaption": ""
@@ -337,11 +342,12 @@
               "RelativeToolTip": "Services\\Crawler\\Core\\Crawler.Application\\IServices\\ICrawlerScopedProcessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T18:49:04.776Z"
+              "WhenOpened": "2025-07-10T18:49:04.776Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "RabbitMqConsumerService.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Infrastructure\\Elastic.Infrastructure\\Consumer\\RabbitMqConsumerService.cs",
               "RelativeDocumentMoniker": "Services\\Elastic\\Infrastructure\\Elastic.Infrastructure\\Consumer\\RabbitMqConsumerService.cs",
@@ -354,59 +360,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ElasticService.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Core\\Elastic.Application\\Services\\ElasticService.cs",
               "RelativeDocumentMoniker": "Services\\Elastic\\Core\\Elastic.Application\\Services\\ElasticService.cs",
               "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Core\\Elastic.Application\\Services\\ElasticService.cs",
               "RelativeToolTip": "Services\\Elastic\\Core\\Elastic.Application\\Services\\ElasticService.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC8AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T18:29:20.56Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ElasticRepository.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Infrastructure\\Elastic.Infrastructure\\Repository\\ElasticRepository.cs",
               "RelativeDocumentMoniker": "Services\\Elastic\\Infrastructure\\Elastic.Infrastructure\\Repository\\ElasticRepository.cs",
               "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Infrastructure\\Elastic.Infrastructure\\Repository\\ElasticRepository.cs",
               "RelativeToolTip": "Services\\Elastic\\Infrastructure\\Elastic.Infrastructure\\Repository\\ElasticRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAIAwwC0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswDQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T18:20:49.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IElasticRepository.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Core\\Elastic.Domain\\Repositories\\IElasticRepository.cs",
               "RelativeDocumentMoniker": "Services\\Elastic\\Core\\Elastic.Domain\\Repositories\\IElasticRepository.cs",
               "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Core\\Elastic.Domain\\Repositories\\IElasticRepository.cs",
               "RelativeToolTip": "Services\\Elastic\\Core\\Elastic.Domain\\Repositories\\IElasticRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T18:20:01.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CrawlerService.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Application\\Services\\CrawlerService.cs",
               "RelativeDocumentMoniker": "Services\\Crawler\\Core\\Crawler.Application\\Services\\CrawlerService.cs",
               "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Application\\Services\\CrawlerService.cs",
               "RelativeToolTip": "Services\\Crawler\\Core\\Crawler.Application\\Services\\CrawlerService.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAYwGMAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwBkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T18:15:13.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "ICrawlerService.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Core\\Crawler.Application\\IServices\\ICrawlerService.cs",
               "RelativeDocumentMoniker": "Services\\Crawler\\Core\\Crawler.Application\\IServices\\ICrawlerService.cs",
@@ -414,36 +420,38 @@
               "RelativeToolTip": "Services\\Crawler\\Core\\Crawler.Application\\IServices\\ICrawlerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T18:13:47.488Z"
+              "WhenOpened": "2025-07-10T18:13:47.488Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Presentation\\ElasticApi\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Elastic\\Presentation\\ElasticApi\\Program.cs",
               "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Elastic\\Presentation\\ElasticApi\\Program.cs",
               "RelativeToolTip": "Services\\Elastic\\Presentation\\ElasticApi\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T18:11:53.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\CrawlerApi\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Crawler\\CrawlerApi\\Program.cs",
               "ToolTip": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\CrawlerApi\\Program.cs",
               "RelativeToolTip": "Services\\Crawler\\CrawlerApi\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T17:03:57.17Z"
+              "WhenOpened": "2025-07-10T17:03:57.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "NewsFetchWorker.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Worker\\NewsFetchWorker.cs",
               "RelativeDocumentMoniker": "Services\\Crawler\\Infrastructure\\Crawler.Infrastructure\\Worker\\NewsFetchWorker.cs",
@@ -456,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "CrawlerController.cs",
               "DocumentMoniker": "C:\\Users\\Ozge\\OneDrive\\Desktop\\web-crawler\\webCrawler\\Services\\Crawler\\CrawlerApi\\Controllers\\CrawlerController.cs",
               "RelativeDocumentMoniker": "Services\\Crawler\\CrawlerApi\\Controllers\\CrawlerController.cs",
@@ -464,7 +472,8 @@
               "RelativeToolTip": "Services\\Crawler\\CrawlerApi\\Controllers\\CrawlerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T16:38:28.985Z"
+              "WhenOpened": "2025-07-10T16:38:28.985Z",
+              "EditorCaption": ""
             }
           ]
         }

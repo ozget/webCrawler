@@ -11,7 +11,7 @@ namespace Elastic.Application.Services
     {
         Task<NewEntity?> GetByIdAsync(string id);
         Task<NewEntity?> GetByTitleAsync(string title);
-        Task<IEnumerable<NewEntity>> GetAllAsync();
+        Task<IEnumerable<NewEntity>> GetAllAsync(string query, int page, int pageSize);
 
         Task DeleteAllNewsAsync();
     }

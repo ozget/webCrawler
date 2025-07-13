@@ -8,8 +8,8 @@ namespace Elastic.Domain.Repositories
     {
         Task SaveAsync(T entity);
         Task<T?> GetByIdAsync(string id);
-        Task<IEnumerable<T>> GetAllAsync();
-       
+        
+         Task<IEnumerable<T>> GetAllAsync();
 
     }
 }

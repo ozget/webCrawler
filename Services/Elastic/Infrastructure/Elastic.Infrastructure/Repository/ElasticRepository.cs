@@ -10,12 +10,12 @@ using Nest;
 
 namespace Elastic.Infrastructure.Repository
 {
-    public class ElasticRepository : IElasticRepository
+    public class ElasticRepository : Repository<NewEntity>, IElasticRepository
     {
         private readonly IElasticClient _elasticClient;
         private readonly string _indexName = "news";
 
-        public ElasticRepository(IElasticClient elasticClient)
+        public ElasticRepository(IElasticClient elasticClient) : base(elasticClient)
         {
             _elasticClient = elasticClient;
         }
@@ -36,14 +36,24 @@ namespace Elastic.Infrastructure.Repository
             return response.Found ? response.Source : null;
         }
 
-        public async Task<IEnumerable<NewEntity>> GetAllAsync()
+        public async Task<IEnumerable<NewEntity>> GetAllAsync(string query, int page, int pageSize)
         {
-            var searchResponse = await _elasticClient.SearchAsync<NewEntity>(s => 
-                                                                s.Index(_indexName)
-                                                               .Sort(s => s.Descending(f => f.Id.Suffix("keyword")))
-                                                                .Query(q => q.MatchAll())
-                                                                .Size(1000));
-            return searchResponse.Documents;
+            var response = await _elasticClient.SearchAsync<NewEntity>(s => s
+                    .Index(_indexName)
+                    .From((page - 1) * pageSize)
+                    .Size(pageSize)
+                    .Sort(s => s.Descending(f => f.Id.Suffix("keyword")))
+                    .Query(q => string.IsNullOrWhiteSpace(query)
+                        ? q.MatchAll()
+                        : q.Wildcard(w => w
+                            .Field(f => f.Title.Suffix("keyword"))
+                            .Value($"*{query.ToLower()}*")
+                            .CaseInsensitive(true)
+                        )
+                    )
+                );
+
+            return response.Documents;
         }
 
         public async Task<NewEntity?> GetByTitleAsync(string title)
@@ -92,6 +102,6 @@ namespace Elastic.Infrastructure.Repository
             }
         }
 
-       
+      
     }
 }

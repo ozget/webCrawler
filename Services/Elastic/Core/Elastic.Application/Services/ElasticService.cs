@@ -43,9 +43,9 @@ namespace Elastic.Application.Services
         public Task<NewEntity?> GetByIdAsync(string id) => _repository.GetByIdAsync(id);
         public Task<NewEntity?> GetByTitleAsync(string title) => _repository.GetByTitleAsync(title);
 
-        public async Task<IEnumerable<NewEntity>> GetAllAsync()
+        public async Task<IEnumerable<NewEntity>> GetAllAsync(string query, int page, int pageSize)
         {
-            var searchResponse = await _repository.GetAllAsync();
+            var searchResponse = await _repository.GetAllAsync(query ,page, pageSize);
 
             return searchResponse.ToList();
         }

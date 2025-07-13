@@ -12,5 +12,6 @@ namespace Elastic.Domain.Repositories
         Task IndexAsync(NewEntity newEntity);
 
         Task DeleteAllAsync();
+        Task<IEnumerable<NewEntity>> GetAllAsync(string query, int page, int pageSize);
     }
 }

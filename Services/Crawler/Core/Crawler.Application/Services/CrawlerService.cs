@@ -19,10 +19,11 @@ namespace Crawler.Application.Services
         private readonly CrawlerSettings _settings;
         private readonly INewsPublisher<NewFetchedEventDto> _publisher;
         private readonly ILogger<CrawlerService> _logger;
-        public CrawlerService(IOptions<CrawlerSettings> settings, INewsPublisher<NewFetchedEventDto> publisher)
+        public CrawlerService(IOptions<CrawlerSettings> settings, INewsPublisher<NewFetchedEventDto> publisher, ILogger<CrawlerService> logger)
         {
             _settings = settings.Value;
             _publisher = publisher;
+            _logger = logger;
         }
 
         public async Task FetchNewAsync()

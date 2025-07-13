@@ -38,9 +38,11 @@ namespace ElasticApi.Controllers
         }
 
         [HttpGet("all")]
-        public async Task<IActionResult> GetAll()
+        public async Task<IActionResult> GetAll([FromQuery] string? query=null, [FromQuery] int page = 1, [FromQuery] int pageSize = 100)
         {
-            var result = await _service.GetAllAsync();
+            if (page <= 0 || pageSize <= 0)
+                return BadRequest("Geçersiz sayfa veya sayfa boyutu.");
+            var result = await _service.GetAllAsync(query, page, pageSize);
             return Ok(result);
         }
 
